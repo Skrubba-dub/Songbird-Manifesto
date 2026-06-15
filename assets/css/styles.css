@@ -22,9 +22,6 @@ div {
 	margin: 30px;
 }
 
-.red {
-	color: red;
-	font-size: 60px;
-	font-weight: bold;
-	transform: rotate(25deg);
+.aquamarine {
+	color: aquamarine;
 }
