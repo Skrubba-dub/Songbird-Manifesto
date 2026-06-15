@@ -1,21 +1,21 @@
 /* styles.css */
 
 html { 
-	background-color: godlenrod;
+	background-color: lightblue;
 	background-image: 
-		linear-gradient(goldenrod, forestgreen);
+		linear-gradient(lightblue, midnightblue);
 }
 
 h1 {
 	font-family: Arial;
-	color: hotpink;
+	color: powderplue;
 	font-size: 220px;
 	letter-spacing: 10px;
 }
 
 div {
 	font-family: Georgia;
-	color: dodgerblue;
+	color: powderblue;
 	font-size: 30px;
 	letter-spacing: 5px;
 	margin: 30px;
