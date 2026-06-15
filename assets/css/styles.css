@@ -3,12 +3,12 @@
 html { 
 	background-color: lightblue;
 	background-image: 
-		linear-gradient(lightblue, midnightblue);
+		linear-gradient(lightsteelblue, midnightblue);
 }
 
 h1 {
 	font-family: Georgia;
-	color: powderplue;
+	color: powderblue;
 	font-size: 220px;
 	letter-spacing: 10px;
 }
